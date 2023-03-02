@@ -2,6 +2,12 @@
 
 created a profile for showing my skills and projects with my social media handles 🪁
 
+My portfolio 💛🖤
+
+ <img src="https://user-images.githubusercontent.com/69325431/174129326-3355942a-597b-498d-8c43-f508dc1ab0c3.png" width="450" height="300">
+
+<img src="https://user-images.githubusercontent.com/69325431/174129409-5ef12e2a-c0ab-4c39-a94a-de9e521b2749.png" width="450" height="300">
+
 
  <h3>Tech Stack 🛠</h3>
  
